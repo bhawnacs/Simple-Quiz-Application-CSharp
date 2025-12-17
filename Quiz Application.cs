@@ -51,10 +51,11 @@ namespace quiz_application
                 }
 
             }
-            Console.WriteLine("\n🎉 Quiz Finished!");
+            Console.WriteLine("\n Quiz Finished!");
             Console.WriteLine("Your Score: " + score + "/" + questions.Length);
 
 
         }
     }
 }
+
