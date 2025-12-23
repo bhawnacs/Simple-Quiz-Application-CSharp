@@ -1,4 +1,4 @@
-# Quiz Application (C# Console App)
+## Quiz Application (C# Console App)
 
 ## 📌 Description
 This is a beginner-level C# console application that simulates a simple quiz.  
